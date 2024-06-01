@@ -72,7 +72,7 @@ node index.js
   <tr>
     <td align="center">
       <a href="#" title="Caio">
-        <img src="assets/Caio.png" width="100px;" alt="Foto do Caio"/><br>
+        <img src="assets/Caio.jpeg" width="100px;" alt="Foto do Caio"/><br>
         <sub>
           <b>Caio Cunha</b>
         </sub>
@@ -80,7 +80,7 @@ node index.js
     </td>
     <td align="center">
       <a href="#" title="Daniel">
-        <img src="assets/Daniel.png" width="100px;" alt="Foto do Daniel"/><br>
+        <img src="assets/Daniel.jpeg" width="100px;" alt="Foto do Daniel"/><br>
         <sub>
           <b>Daniel Vanzela</b>
         </sub>
@@ -91,7 +91,7 @@ node index.js
   <tr>
         <td align="center">
       <a href="#" title="Haryel">
-        <img src="assets/haryel.png" width="100px;" alt="Foto do Haryel"/><br>
+        <img src="assets/haryel.jpeg" width="100px;" alt="Foto do Haryel"/><br>
         <sub>
           <b>Haryel Caliari</b>
         </sub>
@@ -99,7 +99,7 @@ node index.js
     </td>
     <td align="center">
       <a href="#" title="Viny">
-        <img src="assets/Viny.png" width="100px;" alt="Foto do Viny"/><br>
+        <img src="assets/Viny.jpeg" width="100px;" alt="Foto do Viny"/><br>
         <sub>
           <b>Vinycius Oblonczyk</b>
         </sub>
