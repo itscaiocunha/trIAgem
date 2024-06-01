@@ -91,7 +91,7 @@ node index.js
   <tr>
         <td align="center">
       <a href="#" title="Haryel">
-        <img src="assets/haryel.jpeg" width="100px;" alt="Foto do Haryel"/><br>
+        <img src="assets/Haryel.jpeg" width="100px;" alt="Foto do Haryel"/><br>
         <sub>
           <b>Haryel Caliari</b>
         </sub>
