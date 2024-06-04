@@ -1,8 +1,8 @@
 # TrIAgem
 
-![GitHub repo size](https://img.shields.io/github/repo-size/itscaiocunha/TrIAgem_PI?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/TrIAgem_PI?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/itscaiocunha/TrIAgem_PI?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/itscaiocunha/TrIAgem?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/TrIAgem?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/itscaiocunha/TrIAgem?style=for-the-badge)
 
 <img src="assets/gif_logo.gif" alt="Logo" style="width:500px">
 
